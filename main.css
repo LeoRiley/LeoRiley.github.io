@@ -1,6 +1,6 @@
 :root {
     --blue: rgba(52, 81, 166, 0.8);
-    --darkblue: rgba(27, 42, 88, 0.5);
+    --darkblue: rgba(27, 42, 88, 0.8);
 }
 
 h1,h2,h3,h4,h5,p,a,li,span {
